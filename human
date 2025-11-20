@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <header>
+        <h1>Navigational Links</h1>
+         <nav>
+           <ul>
+             <li> <a href="#home">Home</a></li>
+             <li> <a href="#posts">Posts</a></li>
+             <li> <a href="#contacts">Contacts</a></li>
+           </ul>
+         </nav>
+      </header>
+    <main>
+      <section>
+        <h2>Facts about humans</h2>
+         <p>
+             Humans are the most intelligent animals on Earth. They are also the youngest organisms to 
+             exist in this world.But today, they are the strongest and most lethal animals to have walked 
+             on the Earth. Equipt with nuclear technology and guns, they can kill almost every organism on 
+             the Earth. Humans have also created languages and units that help create the understanding
+             of this world easier.For example, time, temperature etc.
+         </p>
+      </section>
+    </main>  
+        <figure>
+          <img src="https://uploads.onecompiler.io/442z42qn9/4458ay69t/woman-removebg-preview.png"
+          <centre><h5><figcaptions>A female human</figcaptions></h5></centre>
+        </figure>
+         <figure>
+          <img src="https://uploads.onecompiler.io/442z42qn9/4458ay69t/man-removebg-preview.png"
+          <centre><h5><figcaptions>A male human</figcaptions></h5></centre>
+        </figure>
+    <main>
+      <section>
+        <h2>History of Dogs</h2>
+         <p>
+           Humans came into living almost 2 million years ago. But there were many species fighting to be 
+           the only ones alive. About 1 million years ago, we the <mark>Homo-sapiens</mark> won the war.
+           About 56500 years ago, we truly developed as the humans today.It all happened in the Quaterniary 
+           period of Phanerozoic Eon.
+       </p>
+      </section>
+    </main>  
+  </body>
+</html>
